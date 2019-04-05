@@ -7,7 +7,7 @@
             <span class="iconfont">&#xe632;输入城市/景点/游玩主题</span></div>
         <div class="header-right">
             <span class="iconfont arrow-icon">城市&#xe64a;</span></div>
-        
+        this is home
     </div>
 </template>>
 
